@@ -24,7 +24,7 @@ body.home{
     margin-top: 120px;
 }
 .home h1{
-    background-color: rgba(255, 255, 255, 0.5);
-    font-size: 64px;
+    background-color: rgba(255, 255, 255, 0.5); /* para aplicarle la transparecia cambia el último valor */
+    
     margin-top: 130px;
 }

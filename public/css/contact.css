@@ -1,0 +1,9 @@
+.contact h4{
+    color: var(--colorEsmeralda); /* se hace un var para generalizar y luego se aplica en otra parte */
+}
+.contact a.dataInfo {
+    color: gray;
+}
+.contact main section article p{
+    line-height: 10px; /* para el espacio entre linea */
+}

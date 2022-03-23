@@ -1,0 +1,21 @@
+/* aplica a todos los header */
+header.horizontal {
+    padding-top: 30px; /* para el espacio en la parte superior */
+    padding-bottom: 30px;
+}
+
+header.horizontal nav ul li {
+    display: inline;
+}
+
+header.horizontal nav{
+    text-align: right;
+}
+
+header.horizontal nav.menu{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 5px 0px;
+}
+header.horizontal nav.redes{
+    margin-top: 10px;
+}

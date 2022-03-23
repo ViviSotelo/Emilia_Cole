@@ -2,7 +2,7 @@ body{
     font-family: 'Open';
 }
 a {
-    text-decoration: none;
+    text-decoration: none; /* para sacar el subrallado */
     color: black;
 }
 li {
@@ -10,11 +10,14 @@ li {
 }
 h1, h2{
     text-transform: uppercase;
-    font-family: 'Raleway';
+    font-family: 'Raleway'; /* esta la fuente de letra */
+}
+h1{
+    font-size: 64px;
 }
 header nav ul li {
-    text-transform: uppercase;
+    text-transform: uppercase; /* para pasar todo a mayúscula */
 }
 header nav ul{
-    padding: 0%;
+    padding: 0%; /* para el espacio que hay en el borde */
 }
